@@ -33,6 +33,8 @@ a {
   width: 100%;
   position: fixed;
   z-index: -99;
+  @media(max-width:1665px){
+    width: 80%
 }
 
 .first {
